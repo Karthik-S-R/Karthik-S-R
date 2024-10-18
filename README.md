@@ -1,5 +1,5 @@
 # About Me:
-Recent <b>MCA </b>Post-Graduate<br>Actively seeking Entry Level Software Engineer jobs<br>🌱 I’m currently learning <b>Power BI</b><br>
+<b>Frontend Engineer </b><br>Actively seeking Entry Level Software Engineer jobs<br>🌱 I’m currently learning <b>Angular Framework</b><br>
 
 
 ## 🌐 Socials:
