@@ -1,5 +1,5 @@
 # About Me:
-<b>Frontend Engineer </b><br>Actively seeking Entry Level Software Engineer jobs<br>🌱 I’m currently learning <b>Angular Framework</b><br>
+<b>Frontend Engineer </b><br>Post Graduation in Master of Computer Applications (MCA)<br>Actively seeking Entry Level Software Engineer jobs<br>🌱 I’m currently learning <b>Angular Framework</b><br>
 
 
 ## 🌐 Socials:
